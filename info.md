@@ -21,3 +21,5 @@
 > git branch – посмотреть список веток в репозитории
 
 > git branch <branch_name> - создание ветки с названием branch_name
+
+> git commit -am 'message' - 'git add .' + "git commit -m 'message'"
