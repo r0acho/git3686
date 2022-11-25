@@ -22,10 +22,19 @@
 
 > git branch <branch_name> - создание ветки с названием branch_name
 
+> git checkout <branch_name> – переход к другой ветке
+
+> git branch -d <branch_name> – удалить ветку
+
+> git merge <branch_name> - слияние веток
+
+> git checkout -b <branch_name> - создание ветки и переход к ней
+
+> git merge --abort - отменить слияние, которое прошло с конфликтом
+
 # Основные команды 3 семинара
 
 > git clone <url> - клонирование внешнего репозитория на локальный ПК
 
 > git pull - получение изменений и слияние с локальной версией
 
-хорошего настроения!
