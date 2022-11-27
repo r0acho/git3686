@@ -27,3 +27,5 @@
 > git clone <url> - клонирование внешнего репозитория на локальный ПК
 
 > git pull - получение изменений и слияние с локальной версией
+
+![](https://epicris.ru/wp-content/uploads/2020/11/promokod-geekbrains.jpg)
