@@ -7,24 +7,9 @@ int num1 = Convert.ToInt32(Console.ReadLine());
 int num2 = Convert.ToInt32(Console.ReadLine());
 int num3 = Convert.ToInt32(Console.ReadLine());
 int max;
-if (num1 == num2 && num1 == num3 && num2 == num3)
-{
-    Console.WriteLine("все числа равны");
-}
-    else if (num1 > num2 && num2 > num3)
-    {
-        max = num1;
-        Console.WriteLine(max);
-    }
-        else if (num1 < num2 && num2 > num3)
-        {
-            max = num2;
-            Console.WriteLine(max);
-        }
-            else 
-            {
-                max = num3;
-                Console.WriteLine($"максимальное число из введённых = {max}"); 
-            }
+if (num1 == num2 && num1 == num3 && num2 == num3) { Console.WriteLine("все числа равны"); }
+    else if (num1 > num2 && num2 > num3) { Console.WriteLine(max=num1); }
+        else if (num1 < num2 && num2 > num3) { Console.WriteLine(max=num2); }
+            else { Console.Write(max = num3); }
 
 
