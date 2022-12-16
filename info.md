@@ -1,29 +1,61 @@
-# Основные команды 1 семинара
+# A Non-Definitive Beginner's Guide to Git 
+## Section 1: Commands
+* **git init:** Starts up Git in VS Code Terminal
 
-> git init - инициализация локального репозитория 
+* **git status:** Outputs information about the current status of Git
 
-> git status - получить информацию от Git о его текущем состоянии
+* **git add _[folder/file name]_:** Adds a file/folder to track and commit
 
-> git add - добавить файл в отслеживание (к следующему коммиту)
+* **git commit -m "_[message]_":** Saves the state of the file/folder along with a brief message
 
-> git commit -m “message” – создание коммита.
+* **git commit -am "_[message]_":** Essentialy, combines two commands (git add and git commit) into one
 
-> git log – вывод на экран истории всех коммитов с их хеш-кодами
+* **git log:** Displays all previous commits of a file
 
-> git checkout – переход от одного коммита к другому
+* **git checkout _[first four symbols of a commit]_:** Used to move from one commit/branch to the other
 
-> git checkout master – вернуться к актуальному состоянию и продолжить работу
+* **git checkout master:** Sends you back to your main branch/current (main) commit
 
-> git diff – увидеть разницу между текущим файлом и закоммиченным файлом
+* **git diff:** Highlights the differences between the current file and a chosen commit
 
-# Основные команды 2 семинара
+* **git branch:** Is used to view existing branches
 
-> git branch – посмотреть список веток в репозитории
+* **git branch _[new branch name]_:** Is used to create a new branch from the current commit
 
-> git branch <branch_name> - создание ветки с названием branch_name
+* **git checkout -b _[new branch name]_:** Creates a new branch and checks out onto it
 
-# Основные команды 3 семинара
+* **git branch -d _[deletable branch name]_:** Deletes the stated branch
 
-> git clone <url> - клонирование внешнего репозитория на локальный ПК
+* **git merge _[branch name]_:** Merges current branch with the inputted one
 
-> git pull - получение изменений и слияние с локальной версией
+* **git clone _[url]_:** Copies the repository from GitHub onto the local hardware
+
+* **git push:** Uploads the commit and its changes onto GitHub
+
+* **git pull:** Imports the changes made to the repositorium on GitHub
+
+
+> ![_What a wonderful world~_](Commited.webp)
+
+## Section 2: Markdown
+
+* **"# "** - makes something into a title
+
+* **"## "** - makes something into a subtitle
+
+* "**" - makes something bold
+
+* **"_"** - makes something italic
+
+* **">"** - makes something into a quote style
+
+* "* " - makes something into a bullet list
+
+* **1, 2, 3...** - makes something into a numbered list
+
+* **[example] (link)** - makes something into a hyperlink
+
+* **! [img]** - pulls the link and displays an image
+
+## Section 3: GitHub (Contributions)
+You first need to fork out a repositorium you'd like to make a contribution to. Get an https link from that forked repositorium and use "git clone [url]" in order to import it onto your local hardware and VS Code. Make changes to it, then add and commit. Push the commit to your repositorium, and then click "contribute" on the original code, forming a pull request.
