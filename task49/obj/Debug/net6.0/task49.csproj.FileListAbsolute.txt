@@ -1,0 +1,15 @@
+/Users/ivanchevardin/C# Homeworks/git3686/task49/bin/Debug/net6.0/task49
+/Users/ivanchevardin/C# Homeworks/git3686/task49/bin/Debug/net6.0/task49.deps.json
+/Users/ivanchevardin/C# Homeworks/git3686/task49/bin/Debug/net6.0/task49.runtimeconfig.json
+/Users/ivanchevardin/C# Homeworks/git3686/task49/bin/Debug/net6.0/task49.dll
+/Users/ivanchevardin/C# Homeworks/git3686/task49/bin/Debug/net6.0/task49.pdb
+/Users/ivanchevardin/C# Homeworks/git3686/task49/obj/Debug/net6.0/task49.csproj.AssemblyReference.cache
+/Users/ivanchevardin/C# Homeworks/git3686/task49/obj/Debug/net6.0/task49.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanchevardin/C# Homeworks/git3686/task49/obj/Debug/net6.0/task49.AssemblyInfoInputs.cache
+/Users/ivanchevardin/C# Homeworks/git3686/task49/obj/Debug/net6.0/task49.AssemblyInfo.cs
+/Users/ivanchevardin/C# Homeworks/git3686/task49/obj/Debug/net6.0/task49.csproj.CoreCompileInputs.cache
+/Users/ivanchevardin/C# Homeworks/git3686/task49/obj/Debug/net6.0/task49.dll
+/Users/ivanchevardin/C# Homeworks/git3686/task49/obj/Debug/net6.0/refint/task49.dll
+/Users/ivanchevardin/C# Homeworks/git3686/task49/obj/Debug/net6.0/task49.pdb
+/Users/ivanchevardin/C# Homeworks/git3686/task49/obj/Debug/net6.0/task49.genruntimeconfig.cache
+/Users/ivanchevardin/C# Homeworks/git3686/task49/obj/Debug/net6.0/ref/task49.dll

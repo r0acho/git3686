@@ -24,7 +24,6 @@ int SummNonevenPos(int[] massiv)
 }
 Console.WriteLine("введите размерность массива");
 int SIZE = Convert.ToInt32(Console.ReadLine());
-//const int SIZE = 10;
 const int LEFTR = -20;
 const int RIGHTR = 20;
 int[] Array = GetRandomArray(SIZE,LEFTR, RIGHTR);

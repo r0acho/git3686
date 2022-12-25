@@ -1,0 +1,15 @@
+/Users/ivanchevardin/C# Homeworks/git3686/task10/obj/Debug/net6.0/task10.csproj.AssemblyReference.cache
+/Users/ivanchevardin/C# Homeworks/git3686/task10/obj/Debug/net6.0/task10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanchevardin/C# Homeworks/git3686/task10/obj/Debug/net6.0/task10.AssemblyInfoInputs.cache
+/Users/ivanchevardin/C# Homeworks/git3686/task10/obj/Debug/net6.0/task10.AssemblyInfo.cs
+/Users/ivanchevardin/C# Homeworks/git3686/task10/obj/Debug/net6.0/task10.csproj.CoreCompileInputs.cache
+/Users/ivanchevardin/C# Homeworks/git3686/task10/bin/Debug/net6.0/task10
+/Users/ivanchevardin/C# Homeworks/git3686/task10/bin/Debug/net6.0/task10.deps.json
+/Users/ivanchevardin/C# Homeworks/git3686/task10/bin/Debug/net6.0/task10.runtimeconfig.json
+/Users/ivanchevardin/C# Homeworks/git3686/task10/bin/Debug/net6.0/task10.dll
+/Users/ivanchevardin/C# Homeworks/git3686/task10/bin/Debug/net6.0/task10.pdb
+/Users/ivanchevardin/C# Homeworks/git3686/task10/obj/Debug/net6.0/task10.dll
+/Users/ivanchevardin/C# Homeworks/git3686/task10/obj/Debug/net6.0/refint/task10.dll
+/Users/ivanchevardin/C# Homeworks/git3686/task10/obj/Debug/net6.0/task10.pdb
+/Users/ivanchevardin/C# Homeworks/git3686/task10/obj/Debug/net6.0/task10.genruntimeconfig.cache
+/Users/ivanchevardin/C# Homeworks/git3686/task10/obj/Debug/net6.0/ref/task10.dll

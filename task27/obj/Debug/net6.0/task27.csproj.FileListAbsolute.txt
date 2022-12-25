@@ -1,0 +1,15 @@
+/Users/ivanchevardin/C# Homeworks/git3686/task27/bin/Debug/net6.0/task27
+/Users/ivanchevardin/C# Homeworks/git3686/task27/bin/Debug/net6.0/task27.deps.json
+/Users/ivanchevardin/C# Homeworks/git3686/task27/bin/Debug/net6.0/task27.runtimeconfig.json
+/Users/ivanchevardin/C# Homeworks/git3686/task27/bin/Debug/net6.0/task27.dll
+/Users/ivanchevardin/C# Homeworks/git3686/task27/bin/Debug/net6.0/task27.pdb
+/Users/ivanchevardin/C# Homeworks/git3686/task27/obj/Debug/net6.0/task27.csproj.AssemblyReference.cache
+/Users/ivanchevardin/C# Homeworks/git3686/task27/obj/Debug/net6.0/task27.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanchevardin/C# Homeworks/git3686/task27/obj/Debug/net6.0/task27.AssemblyInfoInputs.cache
+/Users/ivanchevardin/C# Homeworks/git3686/task27/obj/Debug/net6.0/task27.AssemblyInfo.cs
+/Users/ivanchevardin/C# Homeworks/git3686/task27/obj/Debug/net6.0/task27.csproj.CoreCompileInputs.cache
+/Users/ivanchevardin/C# Homeworks/git3686/task27/obj/Debug/net6.0/task27.dll
+/Users/ivanchevardin/C# Homeworks/git3686/task27/obj/Debug/net6.0/refint/task27.dll
+/Users/ivanchevardin/C# Homeworks/git3686/task27/obj/Debug/net6.0/task27.pdb
+/Users/ivanchevardin/C# Homeworks/git3686/task27/obj/Debug/net6.0/task27.genruntimeconfig.cache
+/Users/ivanchevardin/C# Homeworks/git3686/task27/obj/Debug/net6.0/ref/task27.dll
