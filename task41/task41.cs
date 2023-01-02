@@ -3,26 +3,23 @@
 Посчитайте сколько чисел больше 0 ввёл пользователь. 
 Ввод чисел останавливается после ввода слова stop */
 
-int ReadInt(string msg)
-{
-  Console.WriteLine(msg);
-  return Convert.ToInt32(Console.ReadLine());
-}
+int num = 0;
 int count = 0;
-while (true)
+string s = string.Empty;
+Console.WriteLine("введите любое количество чисел через Enter, для окончания ввода введите stop")
+do
 {
-    string msg = Console.ReadLine();
-    if (msg == "stop")
-    {
-        break;
-    }
-    else {
-    double.TryParse(msg, out double EnterNumber);
-    if(EnterNumber>0)
-       {
-        count++;
-       }
-    }
+ s = Console.ReadLine();
+ if (s == "stop")
+  {
+    break;
+  }
+  else 
+  {
+    num = Convert.ToInt32(s);
+    if (num>0) { count++; }
+  }
 }
+while(true);
+Console.WriteLine($"положительных чисел введено {count}"); 
 
-Console.WriteLine(count);

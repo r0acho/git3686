@@ -3,3 +3,13 @@
 /Users/ivanchevardin/C# Homeworks/git3686/task41/obj/Debug/net6.0/task41.AssemblyInfoInputs.cache
 /Users/ivanchevardin/C# Homeworks/git3686/task41/obj/Debug/net6.0/task41.AssemblyInfo.cs
 /Users/ivanchevardin/C# Homeworks/git3686/task41/obj/Debug/net6.0/task41.csproj.CoreCompileInputs.cache
+/Users/ivanchevardin/C# Homeworks/git3686/task41/bin/Debug/net6.0/task41
+/Users/ivanchevardin/C# Homeworks/git3686/task41/bin/Debug/net6.0/task41.deps.json
+/Users/ivanchevardin/C# Homeworks/git3686/task41/bin/Debug/net6.0/task41.runtimeconfig.json
+/Users/ivanchevardin/C# Homeworks/git3686/task41/bin/Debug/net6.0/task41.dll
+/Users/ivanchevardin/C# Homeworks/git3686/task41/bin/Debug/net6.0/task41.pdb
+/Users/ivanchevardin/C# Homeworks/git3686/task41/obj/Debug/net6.0/task41.dll
+/Users/ivanchevardin/C# Homeworks/git3686/task41/obj/Debug/net6.0/refint/task41.dll
+/Users/ivanchevardin/C# Homeworks/git3686/task41/obj/Debug/net6.0/task41.pdb
+/Users/ivanchevardin/C# Homeworks/git3686/task41/obj/Debug/net6.0/task41.genruntimeconfig.cache
+/Users/ivanchevardin/C# Homeworks/git3686/task41/obj/Debug/net6.0/ref/task41.dll
